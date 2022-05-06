@@ -19,7 +19,7 @@ const stripe = require('./providers/stripe');
 //   }
 // });
 
-// Create a connected account
+// Create a connected accountgu
 router.post('/', async (req, res, next) => {
   try {
     const options = req.params;
