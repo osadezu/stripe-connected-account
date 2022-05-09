@@ -29,5 +29,9 @@ STRIPE_SECRET_KEY=sk_live_*****
 
 ## About Dependencies
 
+### Front-end
 - **[dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow)**: extends [dotenv](https://github.com/motdotla/dotenv), used to separate secrets into `.env.local` while keeping `.env` file tracked in version control.
+- **[nodemon](https://nodemon.io/)**: this development restarts the application automatically after changes are detected in the code, simplifying the development process.
 
+### Back-end
+- **[axios](https://axios-http.com/)**: an http client that simplifies the operation of fetching data from an API.
