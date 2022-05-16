@@ -6,7 +6,7 @@ function Footer() {
           <a href='https://osadezu.com/'>osadezu.com</a>
         </li>
         <li>
-          <a href='https://github.com/osadezu/simplifeye-stripe-account/'>
+          <a href='https://github.com/osadezu/stripe-connected-account/'>
             visit GitHub repo
           </a>
         </li>

@@ -1,7 +1,7 @@
 {
-  "name": "simplifeye-stripe-account-server",
+  "name": "stripe-account-server",
   "version": "1.0.0",
-  "description": "Simplifeye Task - Stripe Connected Account simplifeye-stripe-account-server",
+  "description": "Stripe Connected Account Creation",
   "main": "app.js",
   "scripts": {
     "start": "NODE_ENV=development nodemon app.js",
